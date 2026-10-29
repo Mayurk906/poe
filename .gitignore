@@ -4,3 +4,6 @@ __pycache__/
 .pytest_cache/
 *.html
 
+
+report.xml
+drift_report.html
